@@ -1,0 +1,29 @@
+{
+  "name": "utlty",
+  "version": "0.0.1",
+  "description": "Basic utility functions for everyday use",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mchingiz/utlty.git"
+  },
+  "author": "Chingiz Mammadli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mchingiz/utlty/issues"
+  },
+  "homepage": "https://github.com/mchingiz/utlty#readme",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "chai": "^4.0.2",
+    "chai-spies": "^0.7.1",
+    "mocha": "^3.4.2",
+    "sinon": "^2.3.5"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
