@@ -1,6 +1,6 @@
 {
   "name": "utlty",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Basic utility functions for everyday use",
   "main": "index.js",
   "scripts": {
